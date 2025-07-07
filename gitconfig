@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hellozhangqi@gmail.com
+	name = Qi Zhang
